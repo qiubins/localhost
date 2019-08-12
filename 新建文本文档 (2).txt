@@ -1,9 +1,0 @@
-alter table lcinsuredtwo add(
-  JOBINFO                      VARCHAR2(50),
-  OTHERJOB                     VARCHAR2(50),
-  TOPMANAGEMENT                VARCHAR2(50),
-  POLITICAL                    VARCHAR2(50),
-  ISLONGITEM                   VARCHAR2(1),
-  MAININCOME                   VARCHAR2(1),
-  OTHERINCOME                  VARCHAR2(50),
-  CREDITGRADE                  VARCHAR2(1));
