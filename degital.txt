@@ -1,2 +1,0 @@
-http://192.168.43.229:8080/new_eservice_business/MobilezBusiness?paramType=MZ06&&paramVaule=
-{"Req":{"BankCode":"MobileZ","BankDate":"20200508","BankTime":"155200","Base":{"CustomerID":"1","JadeFlag":"Y","Risklevel":"5","SaleCity":"001"},"FunctionFlag":"MZ06","TransrNo":"MZ000000001"}}
