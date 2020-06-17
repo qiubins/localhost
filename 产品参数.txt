@@ -1,0 +1,1 @@
+https://ybtappuat.cn.hsbc:20119/ybt_sit/MobilezBusiness?paramType=MZ10&&{"Req":{"BankCode":"231231","BankDate":"2343567","BankTime":"12:12","Base":{"RiskCode":"@Q6"},"FunctionFlag":"123123141323","TransrNo":"1233456"}}
